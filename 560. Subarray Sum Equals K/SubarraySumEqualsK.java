@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 class SubarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {

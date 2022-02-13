@@ -1,5 +1,9 @@
 public class ReadNCharactersGivenRead4 {
 
+    int read4(char[] buf4) {
+        return 0;
+    }
+
     public int read(char[] buf, int n) {
         for (int i = 0; i * 4 < n; i++) {
             char[] buf4 = new char[4];

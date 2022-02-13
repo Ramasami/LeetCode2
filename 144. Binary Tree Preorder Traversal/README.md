@@ -1,13 +1,5 @@
 144. Binary Tree Preorder Traversal
-Easy
 
-3636
-
-116
-
-Add to List
-
-Share
 Given the root of a binary tree, return the preorder traversal of its nodes' values.
 
  

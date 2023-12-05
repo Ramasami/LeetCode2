@@ -3,3 +3,6 @@
 .vscode/*
 template/*
 tempCodeRunnerFile.*
+.idea/*
+.DS_Store
+*.iml
